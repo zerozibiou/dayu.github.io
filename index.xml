@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://dayu.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://dayu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HCD</title>
+      <link>https://dayu.github.io/postmyblog/</link>
+      <pubDate>Wed, 11 Aug 2021 10:55:43 +0800</pubDate>
+      
+      <guid>https://dayu.github.io/postmyblog/</guid>
+      <description>汇知而见行 乘物以游心</description>
+    </item>
+    
+  </channel>
+</rss>
